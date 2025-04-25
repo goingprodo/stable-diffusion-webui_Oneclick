@@ -10,7 +10,7 @@
 
 ## 반드시 갖춰야 하는 환경
 1. cuda toolkit v12.1: https://developer.nvidia.com/cuda-12-1-0-download-archive
-2. 파이썬 3.10.6: https://www.python.org/downloads/release/python-3106/
+2. 파이썬 3.10.11: [https://www.python.org/downloads/release/python-3106/](https://www.python.org/downloads/release/python-31011/)
 3. VS 2019 이상 버전: https://visualstudio.microsoft.com/ko/downloads/
 
 ### 이후에는 원래 스테이블 디퓨전에 대한 설명자료가 있습니다.
