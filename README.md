@@ -1,3 +1,20 @@
+# 주의
+깃클론하지마세요!! 배치파일 혹은 EXE파일로 한번에 설치하는 솔루션을 제공합니다
+
+## 설치 방법
+1. 오른쪽에 보시면, 이와 같이 보이는 곳에 클릭하셔야 합니다.
+<p></p>
+![image](https://github.com/user-attachments/assets/dc313365-f145-4a79-87d3-bbdba971757c)
+<p></p>
+2. 여기에서 해당 파일을 다운받으신 다음에, 실행시키시면 바로 설치가 완료됩니다. 
+
+## 반드시 갖춰야 하는 환경
+1. cuda toolkit v12.1: https://developer.nvidia.com/cuda-12-1-0-download-archive
+2. 파이썬 3.10.6: https://www.python.org/downloads/release/python-3106/
+3. VS 2019 이상 버전: https://visualstudio.microsoft.com/ko/downloads/
+
+### 이후에는 원래 스테이블 디퓨전에 대한 설명자료가 있습니다.
+
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
