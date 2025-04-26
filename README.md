@@ -3,7 +3,6 @@
 
 ## 설치 방법
 1. 오른쪽에 보시면, 이와 같이 보이는 곳에 클릭하셔야 합니다.
-<br>
 
 ![image](https://github.com/user-attachments/assets/dc313365-f145-4a79-87d3-bbdba971757c)
 
