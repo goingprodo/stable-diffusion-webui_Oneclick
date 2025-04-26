@@ -3,8 +3,7 @@
 
 ## 설치 방법
 1. 오른쪽에 보시면, 이와 같이 보이는 곳에 클릭하셔야 합니다.
-
-![image](https://github.com/user-attachments/assets/dc313365-f145-4a79-87d3-bbdba971757c)
+![image](https://github.com/user-attachments/assets/f7b9a7d8-1ea6-4fc1-8cbb-19bf3b109c85)
 
 2. 여기에서 해당 파일을 다운받으신 다음에, 실행시키시면 바로 설치가 완료됩니다. 
 
